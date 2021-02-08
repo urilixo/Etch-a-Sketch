@@ -1,0 +1,10 @@
+html, body{
+    background-color: black;
+}
+.baseGrid{
+    height: 960px;
+    width: 960px;
+    background-color: blue;
+    display: grid;
+    align-content:stretch;
+}
